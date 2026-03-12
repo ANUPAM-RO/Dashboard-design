@@ -2,7 +2,7 @@ import { Search, Bell, Settings } from 'lucide-react';
 
 export function Navbar() {
   return (
-    <div className="border-b border-[#1a2332] px-8 py-4 flex items-center justify-between backdrop-blur-sm bg-[#0a0e14]/50">
+    <div className="border-b border-[#1a2332] px-8 py-3.5 flex items-center justify-between backdrop-blur-sm bg-[#0a0e14]/50">
       <div>
         <h1 className="text-white text-xl font-semibold">Dashboard</h1>
         <p className="text-gray-500 text-xs">System overview and key metrics</p>
